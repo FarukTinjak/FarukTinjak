@@ -1,8 +1,9 @@
 ### Hi there 👋
-
-I am Faruk Tinjak, React developer from Mostar. I'm 26 years old and looking for a job.
-
+  
+  My name is Faruk Tinjak, and I am a student at the Faculty of Information Technology in Mostar. Currently, I am searching for a job.
+  
 - 🌱 I’m currently learning React
 - 👯 I’m looking for a job
-- 📫 How to reach me: https://www.linkedin.com/in/faruk-tinjak-4b0635230/
+- 📫 Linkedin : https://www.linkedin.com/in/faruk-tinjak-4b0635230/ 
+- 📩 E-mail : Fare_TC@hotmail.com
 
